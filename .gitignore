@@ -1,24 +1,53 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Java - Spring Boot
+/target/
+/build/
+/out/
 *.jar
 *.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+*.class
+*.log
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# IDEs for Java
+/.idea/
+/*.iml
+/.vscode/
+/*.classpath
+/.project
+/.settings/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# React and Angular
+/node_modules/
+/dist/
+/build/
+/.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular specific
+.angular/
+
+# React specific temp and build
+/build/
+/public/build/
+
+# Others
+.metadata/
+/frontAngular/backendNode/
+/frontAngular/simple-app/.editorconfig
+/frontAngular/simple-app/.vscode/
+/SpringBasic/.mvn/
+/SpringBasic/Nouveau Document texte.txt
+/SpringBasic/bin/
+/SpringBasic/mvnw
+/SpringBasic/mvnw.cmd
+/SpringBasic/.gitattributes

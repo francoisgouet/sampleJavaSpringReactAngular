@@ -1,2 +1,2 @@
 # sampleJavaSpringReactAngular
-Sample full stack project ( Java Spring - React &amp;&amp; Angular
+Sample full stack project ( Java Spring - React &amp;&amp; Angular )
